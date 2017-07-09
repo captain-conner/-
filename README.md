@@ -7,7 +7,7 @@
 ### 2.然而这就是终点了吗？
 偶然的一次机会，我从网上看到一个视频，一个16岁少年的健身历程。对同样经历的我深深地产生了共鸣。
 那一刻，仿佛打开了一个崭新世界的大门，我发现找到了自己想要的健身方法，一种自由，freestyle，真正热爱的东西。barbrother，street workout。于是我决定再次上路，目标街头健身！我在路上重新出发！
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMjUwODEwNjA0MA==' frameborder=0 'allowfullscreen'></iframe>
+<embed src='http://player.youku.com/player.php/sid/XMjU1MzQxOTc5Ng==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 ### 3 一切源自热爱
 从网上自学找教程，从零开始的过程，我意识到，多少人因为自己知识的缺乏找不到适合的自身健身方法，错误的健身方法带来了不必要的损伤，多少人因为不能有效地组织和评估自己的训练情况而，望着无止尽的，止步不前的进度，放弃了健身。我觉得很可惜，同时也知道了循序渐进计划的重要性，谁都不能一口吃成一个胖子（除了我（○｀ 3′○））于是我想到开发一款手机app，根据一本叫做《体操健身指南》的书籍，同时根据自己crossfit的训练经验，，将tabata训练方法增加到其中。于是这个健身app就这么开始了。
 ## app功能介绍
