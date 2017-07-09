@@ -13,14 +13,14 @@
 ## app功能介绍
 用户根据每个动作的训练目的，定制循序渐进的动作难度计划，比如今天练上半身，则可以新建一个针对上半身的训练计划。然后再新建一个下半身的训练计划。每个训练动作都要从简单到困难的选择，可以设置训练次数，训练时间，用户可以从最简单开始慢慢到最困难。同时app还有定时器自主添加定制的功能。
 下面是软件的基本界面：
-![Alt text](http://wx4.sinaimg.cn/mw690/8a9a19daly1fhdkwc94j8j20hw0wyh2w.jpg)
-![Alt text](http://wx2.sinaimg.cn/mw690/8a9a19daly1fhdkw49csxj20hy0wwgxl.jpg)
-![Alt text](http://wx3.sinaimg.cn/mw690/8a9a19daly1fhdkwnhwcjj20hu0wyqly.jpg)
-![Alt text](http://wx3.sinaimg.cn/mw690/8a9a19daly1fhdkwh06vdj20hy0wstn0.jpg)
-![Alt text](http://wx4.sinaimg.cn/mw690/8a9a19daly1fhdkwsd0rlj20hs0wuqh8.jpg)
+![](git_image/1.png)
+![](git_image/2.png)
+![](git_image/3.png)
+![](git_image/4.png)
+![](git_image/5.png)
 ## 后话
 软件的功能并不完善，后面将加入优酷视频板块，还有用户评估板块，同时支持微信微博三方认证。
 如果你有什么酷的创意和一件，可以共同交流，感谢健身路上的伙伴们，共勉。
 
-## 联系 
+## 联系
 mail：captain2conner@163.com
